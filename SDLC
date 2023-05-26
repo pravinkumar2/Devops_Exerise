@@ -1,0 +1,18 @@
+App--> PlanmyProject
+
+
+SDLC---Software Development Life Cycle---
+<---------Requirement Gathering----->
+Planning
+Designing
+Code
+Build
+Unit Testing
+System Integrating Testing
+Performance Testing
+Security Testing
+User acceptance Testing
+Deploy the code to production
+
+Development methology
+1. Waterfall model----All development done first then we start testing/validation
